@@ -1,0 +1,40 @@
+/*
+    header section
+*/
+
+body {
+    margin: 0;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    height: 50px;
+    color: white;
+}
+
+.header > .navbar {
+    display: flex;
+    gap: 20px;
+}
+
+/*
+    - Main section
+*/
+
+.search-section-container {
+    background-color: lightblue;
+    margin: 40px 40px;
+    padding: 10px 10px;
+}
