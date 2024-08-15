@@ -38,3 +38,12 @@ a:visited {
     margin: 40px 40px;
     padding: 10px 10px;
 }
+
+/*
+    description section
+*/
+
+.description-container {
+    padding-left: 50px;
+    padding-right: 50px;
+}
